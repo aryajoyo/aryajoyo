@@ -10,7 +10,7 @@
 ## Education:
 
 #### 1. [Universitas Bumigora](https://universitasbumigora.ac.id/) | Informatics Engineering | MATARAM `2017-2021`
-   - Deputy Head of The Hindu Religion
+   - Vice Chairman of the Hindu Association
  #### 2. [SMAK KESUMA MATARAM](https://www.smak-kesuma.sch.id/) | MIPA | MATARAM `2014-2017`
    - Vice Chairman of the Student Council
 
