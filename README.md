@@ -15,7 +15,7 @@
    - Vice Chairman of the Student Council
 
 ## Work Experience:
-#### 1. [PT. ORANGE GAMES PRODUCTION](https://www.orangegamesproduction.id) | Game Programmer and Level Designer | Jakarta `Mei'2022 - Now`
+#### 1. [PT. ORANGE GAMES PRODUCTION](https://www.orangegamesproduction.id) | Game Programmer and Level Designer | Jakarta `Mei'2022 - Mei'2024`
    - Developed front-end programming functionalities
    - Designed game levels and created characters for Game 
    - Created animations for game trailers
