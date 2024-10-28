@@ -35,7 +35,7 @@
 [<img align="left" alt="Js" width="40px" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="html" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="flutter" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="dart" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="dart" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" style="padding-right:10px;" />][webdev]
 
 
 
