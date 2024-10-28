@@ -32,10 +32,10 @@
 [<img align="left" alt="Vs" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/150px-Visual_Studio_Icon_2022.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="UE5" width="40px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Blender 3D" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Js" width="40px" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Js" width="50px" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="html" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="flutter" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="dart" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" style="padding-right:10px;" />][webdev]
 
 
 
