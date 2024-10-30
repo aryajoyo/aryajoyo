@@ -1,6 +1,6 @@
 # Hi there, I'm Arya - aka [Arya Joyo](https://www.youtube.com/channel/UCYQqW48edwoNAS_zH0o46RQ) 👋
 ## About me:
-- 🔭 I’m currently working as Level Designer and Game Programmer at [ORANGE GAMES PRODUCTION](https://www.orangegamesproduction.id)
+- 🔭 I’m currently working as Level Designer and Game Programmer at [PT STARCOM TECHNOLOGY INDONESIA](https://www.starcomindo.com/)
 - 🌱 I’m currently learning UNREAL ENGINE and CHARACTER CREATOR
 - 👯 I’m looking to collaborate as Game Developer
 - 🤔 I’m looking for suggest for Game with Indonesia Culture
